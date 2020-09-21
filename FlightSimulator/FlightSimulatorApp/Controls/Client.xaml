@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="FlightSimulatorApp.Controls.Client"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FlightSimulatorApp.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="300">
+    <Grid Background="Transparent">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="1" Grid.Column="1" Text="Port" FontSize="18" Margin="5"/>
+        <TextBox Margin="10,2" Background="Gray" FontSize="26" Grid.Row="1" Grid.Column="2" Text="{Binding Path=Port, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"/>
+        <TextBlock Grid.Row="1" Grid.Column="3" Text="IP " FontSize="18" Margin="5"/>
+        <TextBox Margin="10,2" Background="Gray" FontSize="26" Grid.Row="1" Grid.Column="4" Text="{Binding Path=Ip, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"/>
+        <Button Content="Connect" Grid.Row="2" Grid.Column="2" Margin="20" Grid.ColumnSpan="5" FontSize="20" Width="120" Height="40" Background="#FF79FF79" Click="Connect_Button_Click"/>
+        <!--Button Content="Disconnect" Grid.Row="2" Grid.Column="5" FontSize="20" Width="120" Height="40" Background="#FFE95D5D" Click="Disonnect_Button_Click" /-->
+        <!--Button Content="Exit" Grid.Row="1" Grid.Column="6" Width="120" Height="40" FontSize="18" Margin="400,0" Click="Exit_Button_Click"/-->
+        <TextBlock Text="{Binding Status, UpdateSourceTrigger=PropertyChanged}" Grid.ColumnSpan="5"/>
+    </Grid>
+</UserControl>

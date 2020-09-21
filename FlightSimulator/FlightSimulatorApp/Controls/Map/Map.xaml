@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="FlightSimulatorApp.Controls.Map.Map"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:map="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+             xmlns:local="clr-namespace:FlightSimulatorApp.Controls.Map"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <map:Map x:Name="mapObject" CredentialsProvider="Yg4Is5GVG7thfra7DIqY~h0zJl5uf9u5uMKrM3HqyOQ~AoeTG18c5hAKzG46ADLNcGXaEjG2sTgOJ-pbimJUzJktlSUonRFlZRBS78edEdaq" 
+                 ZoomLevel="1.5" Center="32.002644, 34.888781" Grid.RowSpan="2">
+            <map:Pushpin x:Name="plane" Opacity="{Binding VM_StartPin}" Location="{Binding VM_location}"/>
+        </map:Map>
+        <!--{Binding Path=mapCenter, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}-->
+
+        <TextBlock x:Name="texti" Grid.Row="0" Text="{Binding VM_locationText}" />
+
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="FlightSimulatorApp.Controls.Steerings.Steerings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FlightSimulatorApp.Controls.Steerings"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="600">
+    <Grid x:Name="gridObject">
+        <Grid.Background>
+            <SolidColorBrush Color="White" Opacity="50"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="1" Grid.Column="1" FontSize="25" Text="indicated-heading-deg " Margin=" 0,3"/>
+        <TextBlock Grid.Row="2" Grid.Column="1" FontSize="25" Text="gps_indicated-vertical-speed " Margin=" 0,3"/>
+        <TextBlock Grid.Row="3" Grid.Column="1" FontSize="25" Text="gps_indicated-ground-speed-kt  " Margin=" 0,3"/>
+        <TextBlock Grid.Row="4" Grid.Column="1" FontSize="25" Text="airspeed-indicator_indicated-speed-kt " Margin=" 0,3"/>
+        <TextBlock Grid.Row="5" Grid.Column="1" FontSize="25" Text="gps_indicated-altitude-ft " Margin=" 0,3"/>
+        <TextBlock Grid.Row="6" Grid.Column="1" FontSize="25" Text="attitude-indicator_internal-roll-deg " Margin=" 0,3"/>
+        <TextBlock Grid.Row="7" Grid.Column="1" FontSize="25" Text="attitude-indicator_internal-pitch-deg " Margin=" 0,3"/>
+        <TextBlock Grid.Row="8" Grid.Column="1" FontSize="25" Text="altimeter_indicated-altitude-ft " Margin=" 0,3"/>
+        <!--values-->
+        <TextBlock Grid.Row="1" Grid.Column="2" FontSize="20"  Text="{Binding Path=VM_HeadingDeg, UpdateSourceTrigger=PropertyChanged}" Margin=" 0,3"/>
+        <TextBlock Grid.Row="2" Grid.Column="2" FontSize="20"  Text="{Binding Path=VM_VerticalSpeed, UpdateSourceTrigger=PropertyChanged}" Margin=" 0,3"/>
+        <TextBlock Grid.Row="3" Grid.Column="2" FontSize="20"  Text="{Binding Path=VM_GroundSpeed, UpdateSourceTrigger=PropertyChanged}" Margin=" 0,3"/>
+        <TextBlock Grid.Row="4" Grid.Column="2" FontSize="20"  Text="{Binding Path=VM_IndicatedSpeed, UpdateSourceTrigger=PropertyChanged}" Margin=" 0,3"/>
+        <TextBlock Grid.Row="5" Grid.Column="2" FontSize="20"  Text="{Binding Path=VM_GpsAltitude, UpdateSourceTrigger=PropertyChanged}" Margin=" 0,3"/>
+        <TextBlock Grid.Row="6" Grid.Column="2" FontSize="20"  Text="{Binding Path=VM_InternalRollDeg, UpdateSourceTrigger=PropertyChanged}" Margin=" 0,3"/>
+        <TextBlock Grid.Row="7" Grid.Column="2" FontSize="20"  Text="{Binding Path=VM_InternalPitchDeg, UpdateSourceTrigger=PropertyChanged}" Margin=" 0,3"/>
+        <TextBlock Grid.Row="8" Grid.Column="2" FontSize="20"  Text="{Binding Path=VM_AltimeterAltitude, UpdateSourceTrigger=PropertyChanged}" Margin=" 0,3"/>
+    </Grid>
+</UserControl>

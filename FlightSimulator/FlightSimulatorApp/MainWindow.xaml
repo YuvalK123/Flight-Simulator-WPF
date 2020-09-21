@@ -1,0 +1,49 @@
+﻿<Window x:Class="FlightSimulatorApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:controls="clr-namespace:FlightSimulatorApp.Controls"
+        xmlns:steerings="clr-namespace:FlightSimulatorApp.Controls.Steerings"
+        xmlns:joystick="clr-namespace:FlightSimulatorApp.Controls.Joystick"
+        xmlns:map="clr-namespace:FlightSimulatorApp.Controls.Map"
+        xmlns:local="clr-namespace:FlightSimulatorApp"
+        
+        mc:Ignorable="d"
+        Title="MainWindow" Height="750" Width="1333">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="design/BG/skyBG.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="1.5*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <Viewbox Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" Margin="40.404,10,45.256,10">
+            <map:Map x:Name="map" Height="389.122" Width="626.094" BorderBrush="Black" BorderThickness="4"/>
+        </Viewbox>
+
+        <Viewbox Grid.Row="0" Grid.ColumnSpan="2" Grid.Column="1" Height="100">
+            <controls:Client x:Name="c" BorderBrush="White" BorderThickness="2" Width="340.325"/>
+        </Viewbox>
+        <Viewbox Grid.Column="2" Grid.Row="1"  >
+            <steerings:Steerings x:Name="steerings" Width="722.338" Height="325.444" BorderBrush="Black" BorderThickness="4"/>
+        </Viewbox>
+        <Viewbox Grid.Column="1" Grid.Row="2" Margin="732.544,2,-3.865,0" Grid.ColumnSpan="3">
+            <joystick:MainJoystick x:Name="joystick" Width="654.322"/>
+        </Viewbox>
+
+
+    </Grid>
+</Window>

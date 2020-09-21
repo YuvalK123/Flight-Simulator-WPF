@@ -1,0 +1,138 @@
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Controls\Client.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Controls\Joystick\Joystick.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Controls\Joystick\MainJoystick.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Controls\Map\Map.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Controls\Steerings\Steerings.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\App.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Simulator_MarkupCompile.cache
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Simulator_MarkupCompile.lref
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Controls\Client.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Controls\Joystick\Joystick.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Controls\Joystick\MainJoystick.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Controls\Map\Map.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Controls\Steerings\Steerings.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\MainWindow.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Simulator.g.resources
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\GraphicSimulator\Simulator\obj\Debug\Simulator.csprojAssemblyReference.cache
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Simulator.csprojAssemblyReference.cache
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Controls\Client.g.cs
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Controls\Joystick\Joystick.g.cs
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Controls\Joystick\MainJoystick.g.cs
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Controls\Map\Map.g.cs
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Controls\Steerings\Steerings.g.cs
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\App.g.cs
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Simulator_MarkupCompile.cache
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Simulator_MarkupCompile.lref
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Controls\Client.baml
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Controls\Joystick\Joystick.baml
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Controls\Joystick\MainJoystick.baml
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Controls\Map\Map.baml
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Controls\Steerings\Steerings.baml
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\MainWindow.baml
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Simulator.g.resources
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\israe\Downloads\send\GraphicSimulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\bin\Debug\Simulator.exe
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\bin\Debug\Simulator.pdb
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Controls\Client.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Controls\Joystick\Joystick.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Controls\Joystick\MainJoystick.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Controls\Map\Map.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Controls\Steerings\Steerings.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\App.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Simulator_MarkupCompile.cache
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Simulator_MarkupCompile.lref
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Controls\Client.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Controls\Joystick\Joystick.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Controls\Joystick\MainJoystick.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Controls\Map\Map.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Controls\Steerings\Steerings.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\MainWindow.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Simulator.g.resources
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Simulator.exe
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Simulator.pdb
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\10420\Simulator\obj\Debug\Simulator.csprojAssemblyReference.cache
+C:\Users\israe\Downloads\sendd\10420\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\israe\Downloads\sendd\10420\Simulator\bin\Debug\Simulator.exe
+C:\Users\israe\Downloads\sendd\10420\Simulator\bin\Debug\Simulator.pdb
+C:\Users\israe\Downloads\sendd\10420\Simulator\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Simulator.csprojAssemblyReference.cache
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Controls\Client.g.cs
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Controls\Joystick\Joystick.g.cs
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Controls\Joystick\MainJoystick.g.cs
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Controls\Map\Map.g.cs
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Controls\Steerings\Steerings.g.cs
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\App.g.cs
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Simulator_MarkupCompile.cache
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Simulator_MarkupCompile.lref
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Controls\Client.baml
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Controls\Joystick\Joystick.baml
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Controls\Joystick\MainJoystick.baml
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Controls\Map\Map.baml
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Controls\Steerings\Steerings.baml
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\MainWindow.baml
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Simulator.g.resources
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Simulator.exe
+C:\Users\israe\Downloads\sendd\10420\Simulator\obj\Debug\Simulator.pdb
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\bin\Debug\Simulator.exe
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\bin\Debug\Simulator.pdb
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Controls\Client.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Controls\Joystick\Joystick.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Controls\Joystick\MainJoystick.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Controls\Map\Map.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Controls\Steerings\Steerings.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\App.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Simulator_MarkupCompile.cache
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Simulator_MarkupCompile.lref
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Controls\Client.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Controls\Joystick\Joystick.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Controls\Joystick\MainJoystick.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Controls\Map\Map.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Controls\Steerings\Steerings.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\MainWindow.baml
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Simulator.g.resources
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Simulator.exe
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Simulator.pdb
+C:\Users\Yuval\Documents\Bar Ilan\שנה ב\advanced programming 2\ex1\150420\Simulator\obj\Debug\Simulator.csprojAssemblyReference.cache
